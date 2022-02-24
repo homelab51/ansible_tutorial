@@ -1,4 +1,4 @@
 # ansible_tutorial
 
-This is my Ansible repository.
-Another edit.
+This is my Ansible tutorial repository.
+
